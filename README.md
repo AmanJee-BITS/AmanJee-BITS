@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 I’m currently working at **MediBuddy**
 
-- ✍🏼 Presently exploring **the realm of crafting scalable architectures**
+- ✍🏼 Exploring **the realm of crafting scalable architectures**
 
 - 💬 Ask me about **design and development**
 
