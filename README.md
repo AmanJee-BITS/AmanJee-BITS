@@ -1,5 +1,5 @@
 <h2 align="left">Hello World 👋</h2>
-<h3 align="left"> I am a software engineer who is scripting the future through the art of programming </h3>
+<h4 align="left">A software engineer who is scripting the future through the art of programming </h4>
 
 ###
 
@@ -7,9 +7,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AmanJee-BITS.AmanJee-BITS&left_color=mediumseagreen&right_color=darkcyan&left_text=Profile%20views"  />
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ###
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨🏻‍💻 Currently working at **MediBuddy**
 
