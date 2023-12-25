@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋, I'm Amanjee</h2>
+<h2 align="center">Hi 👋, I'm Amanjee</h2>
+<h3 align="center">Scripting the future through the art of programming</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ###
 
@@ -8,13 +11,15 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+- 🔭 I’m currently working at **MediBuddy**
 
-###
+- 🌱 I’m currently learning about **designing scalable architectures**
 
-<div align="right">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
-</div>
+- 💬 Ask me about **design and development**
+
+- 📫 Reach me at **amangs896@gmail.com**
+
+- ⚡ Fun fact **I love photography**
 
 ###
 
