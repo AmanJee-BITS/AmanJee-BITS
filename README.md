@@ -1,6 +1,7 @@
-<h2 align="center">Hello World 👋</h2>
-<h3 align="left">I am a software engineer who is scripting the future through the art of programming
-</h3>
+<h2 align="left">Hello World 👋</h2>
+<!-- <!-- <h3 align="left" -->
+I am a software engineer who is scripting the future through the art of programming
+<!-- /h3> -->
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,7 +13,7 @@
 
 ###
 
-- 👨🏻‍💻 I’m currently working at **MediBuddy**
+- 👨🏻‍💻 Currently working at **MediBuddy**
 
 - ✍🏼 Exploring **the realm of crafting scalable architectures**
 
