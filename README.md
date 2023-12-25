@@ -1,11 +1,17 @@
-
 <h2 align="left">Hello World 👋</h2>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmanJee-BITS.AmanJee-BITS&left_color=mediumseagreen&right_color=darkcyan&left_text=Profile%20views"  />
 <h4 align="left">A software engineer who is scripting the future through the art of programming </h4>
 
 ###
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+###
+
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmanJee-BITS.AmanJee-BITS&left_color=mediumseagreen&right_color=darkcyan&left_text=Profile%20views"  />
+</div>
+
+###
 
 - 👨🏻‍💻 Currently working at **MediBuddy**
 
