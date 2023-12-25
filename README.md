@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **design and development**
 
-- ✉️ Reach me at **amangs896@gmail.com**
+- ✉️ Reach me at **[Mail](mailto:amangs896@gmail.com)**
 
 - 📸 Fun fact **I love photography**
 
