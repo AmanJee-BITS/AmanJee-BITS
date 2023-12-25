@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋, I'm Amanjee</h2>
-<h3 align="center">Scripting the future through the art of programming</h3>
+<h2 align="center">Hello World 👋</h2>
+<h3 align="left">I am a software engineer who is scripting the future through the art of programming
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
