@@ -5,21 +5,20 @@
 <h4 align="left">A software engineer who is scripting the future through the art of programming </h4>
 
 ###
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<div>
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 
 ###
-
-- 👨🏻‍💻 Currently working at **MediBuddy**
-
-- ✍🏼 Exploring **the realm of crafting scalable architectures**
-
-- 💬 Ask me about **design and development**
-
-- ✉️ Reach me at **[Mail](mailto:amangs896@gmail.com)**
-
-- 📸 Fun fact **I love photography**
+  - 👨🏻‍💻 Currently working at **MediBuddy**
+  
+  - ✍🏼 Exploring **the realm of crafting scalable architectures**
+  
+  - 💬 Ask me about **design and development**
+  
+  - ✉️ Reach me at **[Mail](mailto:amangs896@gmail.com)**
+  
+  - 📸 Fun fact **I love photography**
 
 ###
 
