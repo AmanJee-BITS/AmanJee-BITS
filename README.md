@@ -13,9 +13,9 @@
 
 <div>
   
-  [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/AmanJee-BITS)
   [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/aman-jee/)
   [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/jee._.aman//)
+  [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/AmanJee-BITS)
 
 </div>
 
@@ -92,6 +92,8 @@
 </div>
 
 ###
+
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanJee-BITS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
