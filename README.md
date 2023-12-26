@@ -2,14 +2,25 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmanJee-BITS.AmanJee-BITS&left_color=mediumseagreen&right_color=darkcyan&left_text=Profile%20views"  />
 </h2>
-<h4 align="left">A software engineer who is scripting the future through the art of programming </h4>
+<h4 align="left">A software engineer who is scripting the future through the art of programming 
+</h4>
 
 ###
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+###
+
 <div>
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  
+  [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/AmanJee-BITS)
+  [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/aman-jee/)
+  [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/jee._.aman//)
+
 </div>
 
 ###
+
   - 👨🏻‍💻 Currently working at **MediBuddy**
   
   - ✍🏼 Exploring **the realm of crafting scalable architectures**
@@ -19,19 +30,6 @@
   - ✉️ Reach me at **[Mail](mailto:amangs896@gmail.com)**
   
   - 📸 Fun fact **I love photography**
-
-###
-
-## Connect with me
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
 
 ## Skills
 
